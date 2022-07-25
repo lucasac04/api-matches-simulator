@@ -2,18 +2,18 @@
   {
     "description" : "Eliminatórias Copa 2022",
     "local" : {
-      "name" : "Maracanã",
-      "image" : "https://mundorubronegro.com/wp-content/uploads/2022/03/20220310_154825.jpg",
+      "nome" : "Maracanã",
+      "imagem" : "https://mundorubronegro.com/wp-content/uploads/2022/03/20220310_154825.jpg",
     },
     "hometeam" : {
-      "name" : "Brazil",
-      "strenght" : 5,
-      "image" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+      "nome" : "Brazil",
+      "forca" : 5,
+      "imagem" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
     },
      "awayteam" : {
-      "name" : "Argentina"
-      "strenght" : 4,
-      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+      "nome" : "Argentina"
+      "forca" : 4,
+      "imagem" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
     }
   }
 ]
